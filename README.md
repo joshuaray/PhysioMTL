@@ -11,7 +11,7 @@ The specific claims of the original paper we are testing in this code are as fol
 * PhysioMTL holds a more stable (lesser range) accuracy than the 5 baseline methods above across many data set training size (20%, 40%, 60%, and 80% of MMASH)
 
 ## Instructions
-To recreate our results, run the included PhysioMTL.ipynb within a Jupyter environment such as [Google Colab](colab.research.google.com). The provided code will automatically download, process, train, and test the MMASH dataset and report results that support the claims presented in the paper. 
+To recreate our results, run the included PhysioMTL.ipynb within a Jupyter environment such as [Google Colab](colab.research.google.com). The provided code will automatically download, process, train, and test the MMASH dataset and report results that support the claims presented in the paper. The notebook will generate an HRV prediction for a person who is 40 with a BMI of 25, sleeps 7 hours per day, has an activity level of 1.5 hours per day, and a stress level of 40. This prediction is also modeled in the original paper.
 
 
 ### Requirements
