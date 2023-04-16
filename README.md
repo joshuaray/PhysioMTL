@@ -11,7 +11,18 @@ The specific claims of the original paper we are testing in this code are as fol
 * PhysioMTL holds a more stable (lesser range) accuracy than the 5 baseline methods above across many data set training size (20%, 40%, 60%, and 80% of MMASH)
 
 ## Instructions
-To recreate our results, run the included PhysioMTL.ipynb within a Jupyter environment. The provided code will automatically download, process, train, and test the MMASH dataset and report results that support the claims presented in the paper. 
+To recreate our results, run the included PhysioMTL.ipynb within a Jupyter environment such as [Google Colab](colab.research.google.com). The provided code will automatically download, process, train, and test the MMASH dataset and report results that support the claims presented in the paper. 
+
+
+### Requirements
+The following Python version and module requirements are listed below. These module requirements are automatically downloaded and installed in the included Jupyter notebook.
+* Python 3.9
+* [Mutar](https://github.com/hichamjanati/mutar) (0.0.1)
+* Numpy (1.22.4)
+* Pandas (1.5.3)
+* Matplotlib (3.7.1)
+* Pot (0.9.0)
+* Scipy (1.10.1)
 
 ## References
 <a id="1">[1]</a> 
