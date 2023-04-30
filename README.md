@@ -32,3 +32,7 @@ URL: https://proceedings.mlr.press/v174/zhu22a.html.
 
 <a id="2">[2]</a>
 Acharya, Rajendra U. et al. (2006). “Heart Rate Variability: A Review”. In: Medical and Biological Engineering and Computing 44.12, pp. 1031–1051.
+
+### Original Work
+The following code was created by the original authors (Zhu, Jiacheng et al.), and was used as reference when creating our code.
+https://proceedings.mlr.press/v174/zhu22a/zhu22a-supp.zip
